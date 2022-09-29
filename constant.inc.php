@@ -10,4 +10,5 @@ define('SERVER_DISH_IMAGE',SERVER_IMAGE.'/media/dish/');
 define('SITE_IMAGE','http://127.0.0.1/myphp/shopping-website/food_ordering1');
 define('SITE_DISH_IMAGE',SITE_IMAGE.'/media/dish/');
 
+
 ?>
